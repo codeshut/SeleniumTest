@@ -35,8 +35,7 @@ public class DragAndDrop {
 		
 		//perform drag and drop gesture
 		actionsDrag.dragAndDrop(dragSource, dropTarget).perform();
-		System.out.println("Done Dragging and dropping");
-		
+		System.out.println("Done Dragging and dropping");		
 
 		
 		driver.navigate().to("https://jqueryui.com/resizable/");
