@@ -14,7 +14,6 @@ public class DragAndDrop {
 
 	public static void main(String[] args) {
 		System.setProperty("webdriver.chrome.driver", "/home/dhawal/selenium jars/chromedriver/chromedriver");
-		//System.setProperty("webdriver.gecko.driver", "/home/dhawal/selenium jars/chromedriver/geckodriver");
 
 		//driver = new FirefoxDriver();
 		driver = new ChromeDriver();
